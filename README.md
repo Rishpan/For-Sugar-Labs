@@ -1,2 +1,6 @@
 # hello-world
-Trying something new
+
+Hi my name is Rishab
+
+I like pizza and love to play basketball
+I also like Star Wars
