@@ -1,6 +1,7 @@
 # hello-world
 
-Hi my name is Rishab
+Hello sugar labs
 
-I like pizza and love to play basketball
-I also like Star Wars
+My name is Rishab.
+Thanks for letting me use this. 
+It has been a new experience for me and I am excited to learn more!
